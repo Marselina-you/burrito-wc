@@ -181,11 +181,11 @@ add_action( 'woocommerce_after_main_content', 'burrito_woocommerce_wrapper_after
  *
  * You can add the WooCommerce Mini Cart to header.php like so ...
  *
-	<?php
-		if ( function_exists( 'burrito_woocommerce_header_cart' ) ) {
-			burrito_woocommerce_header_cart();
-		}
-	?>
+	*<?php
+	*	if ( function_exists( 'burrito_woocommerce_header_cart' ) ) {
+	*		burrito_woocommerce_header_cart();
+	*	}
+	*?>
  */
 
 if ( ! function_exists( 'burrito_woocommerce_cart_link_fragment' ) ) {
