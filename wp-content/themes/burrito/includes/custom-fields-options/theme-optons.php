@@ -53,8 +53,20 @@ Container::make( 'theme_options', 'Настройки темы' )
 	
 		
 ) )
-	->add_tab( 'Подвал', array(
-		Field::make( 'text', 'crb_email', 'Notification Email' ),
-		Field::make( 'text', 'crb_phone', 'Phone Number' ),
-		Field::make( 'text', 'crb_name', 'Name' )
-	) );
+->add_tab( 'Подвал', array(
+	Field::make( 'text', 'bur_footer_copy', 'Копирайта' )
+		->set_default_value('&copy; 2017 Electronic Store. All rights reserved')
+		->set_width( 30 ),
+	Field::make( 'radio', 'bur_footer_newsletter_show', 'Показывать блок подписки' )
+		->add_options( array(
+			'on' => 'Включить',
+			'off' => 'Выключить',
+		) )
+		->set_width( 30 ),
+	Field::make( 'radio', 'bur_footer_widgets_show', 'Показывать блок виджетов' )
+		->add_options( array(
+			'on' => 'Включить',
+			'off' => 'Выключить',
+		) )
+		->set_width( 30 ),
+) );

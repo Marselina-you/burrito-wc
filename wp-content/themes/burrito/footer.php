@@ -6,29 +6,28 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package burrito
+ * @package estore
  */
-
 ?>
 
-	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'burrito' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'burrito' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'burrito' ), 'burrito', '<a href="http://underscores.me/">Underscores.me</a>' );
-				?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+</div><!-- #content -->
+
+<?php
+/**
+ * header_parts hook.
+ *
+ * @hooked estore_newsletter_callback - 10
+ * @hooked estore_footer_start - 15
+ * @hooked estore_widgets_callback - 20
+ * @hooked estore_copyright_callback - 30
+ * @hooked estore_footer_end - 40
+ *
+ */
+do_action( 'bur_footer_parts' ); ?>
+
+
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
 
-</body>
-</html>
+</body></html>

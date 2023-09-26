@@ -18,6 +18,7 @@ require get_template_directory() . '/includes/widget-areas.php';
 require get_template_directory() . '/includes/enqueue-script-style.php';
 
 require get_template_directory() . '/includes/custom-header.php';
+require get_template_directory() . '/includes/custom-footer.php';
 
 /**
  * Custom template tags for this theme.
