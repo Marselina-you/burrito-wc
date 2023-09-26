@@ -20,7 +20,7 @@ function burrito_styles() {
 	wp_enqueue_script( 'burrito-navigation', get_template_directory_uri() . '/assets/js/navigation.js', array(), '20151215', true );
 	
 	wp_enqueue_script( 'burrito-skip-link-focus-fix', get_template_directory_uri() . '/assets/js/skip-link-focus-fix.js', array(), '20151215', true );
-	
+	wp_enqueue_script( 'burrito-main', get_template_directory_uri() . '/assets/js/main.js', array(), '20151215', true );
 	wp_enqueue_script('bootstrap-script' , get_template_directory_uri() . '/assets/js/bootstrap-3.1.1.min.js', array('jquery'), null, true);
 	wp_enqueue_script('imagezoom' , get_template_directory_uri() . '/assets/js/imagezoom.js', array('jquery'), null, true);
 	wp_enqueue_script('countdown' , get_template_directory_uri() . '/assets/js/jquery.countdown.js', array('jquery'), null, true);
@@ -32,7 +32,7 @@ function burrito_styles() {
 	wp_enqueue_script('minicart' , get_template_directory_uri() . '/assets/js/minicart.js', array('jquery'), null, true);
 	wp_enqueue_script('easyTabs' , get_template_directory_uri() . '/assets/js/easyResponsiveTabs.js', array('jquery'), null, true);
 	wp_enqueue_script('ajax-search' , get_template_directory_uri() . '/assets/js/ajax-search.js', array('jquery'), null, true);
-	wp_enqueue_script( 'burrito-main', get_template_directory_uri() . '/assets/js/main.js', array(), '20151215', true );
+	
 	wp_localize_script('ajax-search', 'search_form' , array(
 		'url' => admin_url( 'admin-ajax.php' ),
 		'nonce' => wp_create_nonce('search-nonce')

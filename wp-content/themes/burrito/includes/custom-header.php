@@ -1,78 +1,44 @@
 <?php
-/**
- * Sample implementation of the Custom Header feature
- *
- * You can add an optional custom header image to header.php like so ...
- *
-	<?php the_header_image_tag(); ?>
- *
- * @link https://developer.wordpress.org/themes/functionality/custom-headers/
- *
- * @package burrito
- */
-
-/**
- * Set up the WordPress core custom header feature.
- *
- * @uses burrito_header_style()
- */
-function burrito_custom_header_setup() {
-	add_theme_support(
-		'custom-header',
-		apply_filters(
-			'burrito_custom_header_args',
-			array(
-				'default-image'      => '',
-				'default-text-color' => '000000',
-				'width'              => 1000,
-				'height'             => 250,
-				'flex-height'        => true,
-				'wp-head-callback'   => 'burrito_header_style',
-			)
-		)
-	);
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
 }
-add_action( 'after_setup_theme', 'burrito_custom_header_setup' );
+add_action( 'header_parts', 'burrito_header_modal', 10 );
+function burrito_header_modal() {
+	get_template_part( 'template-parts/header/modal-login' );
+}
+add_action( 'header_parts', 'burrito_container_start', 15 );
+function burrito_container_start() {
+	?>
+	<div class="header__container">
+<?php
+}
 
-if ( ! function_exists( 'burrito_header_style' ) ) :
-	/**
-	 * Styles the header image and text displayed on the blog.
-	 *
-	 * @see burrito_custom_header_setup().
-	 */
-	function burrito_header_style() {
-		$header_text_color = get_header_textcolor();
+add_action( 'header_parts', 'burrito_header_icon_login', 20 );
+function burrito_header_icon_login() {
+	get_template_part( 'template-parts/header/login-icon' );
+}
 
-		/*
-		 * If no custom options for text are set, let's bail.
-		 * get_header_textcolor() options: Any hex value, 'blank' to hide text. Default: add_theme_support( 'custom-header' ).
-		 */
-		if ( get_theme_support( 'custom-header', 'default-text-color' ) === $header_text_color ) {
-			return;
-		}
+add_action( 'header_parts', 'burrito_header_logo', 30 );
+function burrito_header_logo() {
+	get_template_part( 'template-parts/header/logo' );
+}
 
-		// If we get this far, we have custom styles. Let's do this.
-		?>
-		<style type="text/css">
-		<?php
-		// Has the text been hidden?
-		if ( ! display_header_text() ) :
-			?>
-			.site-title,
-			.site-description {
-				position: absolute;
-				clip: rect(1px, 1px, 1px, 1px);
-				}
-			<?php
-			// If the user has set a custom color for the text use that.
-		else :
-			?>
-			.site-title a,
-			.site-description {
-				color: #<?php echo esc_attr( $header_text_color ); ?>;
-			}
-		<?php endif; ?>
-		</style>
-		<?php
-	}
-endif;
+add_action( 'header_parts', 'burrito_header_search', 40 );
+function burrito_header_search() {
+	get_template_part( 'template-parts/header/search' );
+}
+
+add_action( 'header_parts', 'burrito_header_card', 50 );
+function burrito_header_card() {
+	get_template_part( 'template-parts/header/mini-card' );
+}
+add_action( 'header_parts', 'burrito_container_end', 55 );
+function burrito_container_end() {
+	?>
+	</div>
+	<?php
+}
+add_action( 'header_parts', 'burrito_header_navi', 60 );
+function burrito_header_navi() {
+	get_template_part( 'template-parts/header/navi' );
+}
