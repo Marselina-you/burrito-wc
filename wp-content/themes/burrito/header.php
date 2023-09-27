@@ -26,23 +26,9 @@
 		
 		background-color: grey;
 	}
-	header {
-		display: flex; 
-		flex-direction: column;
-	}
-	.menu-item {
+	
+	
 
-margin-right: 40px;
-	}
-
-	.menu-item a {
-		font: var(--regular-lato);
-text-transform: capitalize;
-font-size: 20px;
-color: var(--light-color);
-transition: color 0.3s ease-in-out;
-
-	}
 	.modal {
     position: fixed;
     top: 0;
@@ -63,7 +49,7 @@ transition: color 0.3s ease-in-out;
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 
-	<header id="masthead" class="header">
+	<header id="masthead" class="header container">
 		<?php do_action('header_parts'); 
 		/**
 		 * header_parts hook.

@@ -5,7 +5,7 @@ if ( ! defined( 'ABSPATH')) {
 add_action( 'wp_enqueue_scripts', 'burrito_scripts' );
 function burrito_scripts() {
 	wp_enqueue_style( 'main-style', get_template_directory_uri() . '/assets/css/main.css');
-	wp_enqueue_style( 'burrito-style', get_stylesheet_uri(), array('burrito-vendor'));
+	wp_enqueue_style( 'burrito-style', get_stylesheet_uri(), array('bootsrap-style'));
 	wp_enqueue_style( 'burrito-vendor', get_template_directory_uri() . '/assets/css/vendor.css', array() , null, 'all');
 	wp_enqueue_style('bootsrap-style', get_template_directory_uri() . '/assets/css/bootstrap.css', array() , null, 'all');
 	wp_enqueue_style('flexslider', get_template_directory_uri() . '/assets/css/flexslider.css', array() , null, 'all');

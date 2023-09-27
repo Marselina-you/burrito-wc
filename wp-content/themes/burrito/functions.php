@@ -47,11 +47,12 @@ if ( defined( 'JETPACK__VERSION' ) ) {
  * Load WooCommerce compatibility file.
  */
 if ( class_exists( 'WooCommerce' ) ) {
-	require get_template_directory() . '/includes/woocommerce.php';
-	//require get_template_directory() . '/woocommerce/includes/wc-functions-cart.php';
+	//require get_template_directory() . '/includes/woocommerce.php';
+	
 	
 	require get_template_directory() . '/woocommerce/includes/wc-functions.php';
-	//require get_template_directory() . '/woocommerce/includes/wc-functions-remove.php';
+	require get_template_directory() . '/woocommerce/includes/wc-functions-remove.php';
+	require get_template_directory() . '/woocommerce/includes/wc-functions-cart.php';
 	
 }
 
