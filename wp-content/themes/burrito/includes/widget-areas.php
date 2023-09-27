@@ -9,10 +9,10 @@ function burrito_widgets_init() {
 		'name'          => esc_html__( 'Sidebar', 'burrito' ),
 		'id'            => 'sidebar-1',
 		'description'   => esc_html__( 'Add widgets here.', 'burrito' ),
-		'before_widget' => '<section id="%1$s" class="widget %2$s">',
-		'after_widget'  => '</section>',
+		'before_widget' => '<section id="%1$s" class="widget w3ls_mobiles_grid_left_grid %2$s">',
+		'after_widget'  => '</div></section>',
 		'before_title'  => '<h3 class="widget-title">',
-		'after_title'   => '</h3>',
+		'after_title'   => '</h3><div class="w3ls_mobiles_grid_left_grid_sub">',
 	) );
 	register_sidebar( array(
 		'name'          => 'Подвал левый',
