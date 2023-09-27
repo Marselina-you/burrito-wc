@@ -7,7 +7,7 @@
  * @package estore
  */
 get_header(); ?>
-	<div class="container single-section">
+	<div class="container product-container single-section">
 		<div class="w3ls_mobiles_grids">
 			<div id="primary" class="content-area col-md-8 w3ls_mobiles_grid_left">
 				<main id="main" class="site-main">
