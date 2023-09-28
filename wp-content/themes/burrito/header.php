@@ -21,35 +21,13 @@
 	<?php wp_head(); ?>
 	
 </head>
-<style>
-	body {
-		
-		background-color: grey;
-	}
-	
-	
-
-	.modal {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 1050;
-    display: none;
-    overflow: hidden;
-    -webkit-overflow-scrolling: touch;
-    outline: 0;
-}
-.search_form form{
-	display: flex;
-	
-}
-</style>
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> id="page">
 <div id="page" class="site">
 
-	<header id="masthead" class="header container">
+	<header id="masthead" class="container">
+		
+
+		
 		<?php do_action('header_parts'); 
 		/**
 		 * header_parts hook.
@@ -65,5 +43,6 @@
 		 *
 		 */
 		?>
+		
 </header>
 <div id="content" class="site-content">

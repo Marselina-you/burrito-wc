@@ -9,7 +9,7 @@ function burrito_header_modal() {
 add_action( 'header_parts', 'burrito_container_start', 15 );
 function burrito_container_start() {
 	?>
-	
+	<div class="header-wrap header container">
 <?php
 }
 
@@ -41,4 +41,5 @@ function burrito_container_end() {
 add_action( 'header_parts', 'burrito_header_navi', 60 );
 function burrito_header_navi() {
 	get_template_part( 'template-parts/header/navi' );
-}
+}?>
+</div>
