@@ -9,7 +9,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package estore
+ * @package burrito
  */
 get_header(); ?>
 	<div class="container-fluid single-section">

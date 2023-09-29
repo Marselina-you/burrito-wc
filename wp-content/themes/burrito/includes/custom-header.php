@@ -28,10 +28,10 @@ function burrito_header_logo() {
 //	get_template_part( 'template-parts/header/search' );
 //}
 
-//add_action( 'header_parts', 'burrito_header_card', 50 );
-//function burrito_header_card() {
-//	get_template_part( 'template-parts/header/mini-card' );
-//}
+add_action( 'header_parts', 'burrito_header_card', 50 );
+function burrito_header_card() {
+	get_template_part( 'template-parts/header/mini-card' );
+}
 add_action( 'header_parts', 'burrito_container_end', 55 );
 function burrito_container_end() {
 	?>

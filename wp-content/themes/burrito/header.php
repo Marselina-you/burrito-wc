@@ -21,6 +21,34 @@
 	<?php wp_head(); ?>
 	
 </head>
+<style>
+	.modal-login-overlay--visible {
+    
+    z-index: 10000;
+}
+
+.resp-tab-content {
+	display: none;
+	
+}
+.modal-content {
+    
+    height: 400px;
+}
+.resp-tab-content {
+	//min-height: 250px;
+}
+.resp-accordion {
+	opacity: 0;
+	font-family: var(--regular-lato);
+  color: var(--dark-color);
+  font-weight: 700;
+}
+.resp-tab-active {
+	opacity: 1;
+	
+}
+	</style>
 <body <?php body_class(); ?> id="page">
 <div id="page" class="site">
 
