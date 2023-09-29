@@ -70,11 +70,11 @@ class WC_Widget_Cart extends WC_Widget {
 			echo '<div class="hide_cart_widget_if_empty">';
 		}
 
-		// Insert cart widget placeholder - code in woocommerce.js will update this on page load.
-		echo '<div class="widget_shopping_cart_content"></div>';
+		// Insert cart widget placeholder - code in woocommerce.js will update this on page load.Вставить код-заполнитель виджета корзины в woocommerce.js обновлю это при загрузке страницы.
+		echo '<div class="widget_shopping_cart_content burrito-cart"></div>';
 
 		if ( $hide_if_empty ) {
-			echo '</div>';
+			echo '<span></span></div>';
 		}
 
 		$this->widget_end( $args );

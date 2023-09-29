@@ -21,7 +21,21 @@
 	<?php wp_head(); ?>
 	
 </head>
+
 <style>
+	.mini-card-content {
+		position: absolute;
+		display: none;
+	}
+	.site-header-cart:hover .mini-card-content {
+  display: block;
+}
+	.widget_shopping_cart {
+		display: none;
+		width: 100px;
+		height: 100px;
+		background-color: red;
+	}
 	.modal-login-overlay--visible {
     
     z-index: 10000;
@@ -35,9 +49,7 @@
     
     height: 400px;
 }
-.resp-tab-content {
-	//min-height: 250px;
-}
+
 .resp-accordion {
 	opacity: 0;
 	font-family: var(--regular-lato);
@@ -48,7 +60,39 @@
 	opacity: 1;
 	
 }
+.quantity {
+	display: flex;
+	opacity: .9;
+}
+.quantity input {
+	
+    text-align: center;
+}
+.quantity .plus{
+	background-color: var(--order-color);
+    
+}
+.quantity .minus{
+	background-color: var(--order-color);
+    
+}
+.plus, .minus {
+
+	border: none;
+    border-radius: 8px;
+    padding: 7px 6px;
+    background-color: var(--order-color);
+    transition: background-color 0.3s ease-in-out;
+ 
+  
+  
+
+
+ 
+}
+
 	</style>
+	
 <body <?php body_class(); ?> id="page">
 <div id="page" class="site">
 

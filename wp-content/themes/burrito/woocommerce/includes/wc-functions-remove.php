@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 add_filter( 'woocommerce_enqueue_styles', '__return_empty_array' );
 remove_action( 'woocommerce_sidebar', 'woocommerce_get_sidebar', 10);//отключение сайдбара
-remove_all_filters( 'woocommerce_after_single_product_summary');
+remove_all_filters( 'woocommerce_after_single_product_summary');//отключили все функции хука woocommerce_after_single_product_summary
 
 
 /*add_filter( 'woocommerce_enqueue_styles', 'estore_dequeue_styles', 1 );
