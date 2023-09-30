@@ -23,73 +23,14 @@
 </head>
 
 <style>
-	.mini-card-content {
-		position: absolute;
-		display: none;
-	}
-	.site-header-cart:hover .mini-card-content {
-  display: block;
-}
-	.widget_shopping_cart {
-		display: none;
-		width: 100px;
-		height: 100px;
-		background-color: red;
-	}
-	.modal-login-overlay--visible {
-    
-    z-index: 10000;
-}
-
-.resp-tab-content {
-	display: none;
-	
-}
-.modal-content {
-    
-    height: 400px;
-}
-
-.resp-accordion {
-	opacity: 0;
-	font-family: var(--regular-lato);
-  color: var(--dark-color);
-  font-weight: 700;
-}
-.resp-tab-active {
-	opacity: 1;
-	
-}
-.quantity {
+	 .products {
 	display: flex;
-	opacity: .9;
-}
-.quantity input {
-	
-    text-align: center;
-}
-.quantity .plus{
-	background-color: var(--order-color);
-    
-}
-.quantity .minus{
-	background-color: var(--order-color);
-    
-}
-.plus, .minus {
-
-	border: none;
-    border-radius: 8px;
-    padding: 7px 6px;
-    background-color: var(--order-color);
-    transition: background-color 0.3s ease-in-out;
- 
-  
-  
-
-
- 
-}
+	flex-direction: column;
+  }
+  .product {
+	display: flex;
+	flex-direction: column;
+  }
 
 	</style>
 	

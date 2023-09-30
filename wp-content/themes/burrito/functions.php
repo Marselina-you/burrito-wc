@@ -54,6 +54,7 @@ if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/woocommerce/includes/wc-functions-remove.php';
 	require get_template_directory() . '/woocommerce/includes/wc-functions-cart.php';
 	require get_template_directory() . '/woocommerce/includes/wc-functions-single.php';
+	require get_template_directory() . '/woocommerce/includes/wc-functions-archive.php';
 	
 }
 add_filter( 'upload_mimes', 'svg_upload_allow' );
