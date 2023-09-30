@@ -15,6 +15,15 @@ function burrito_widgets_init() {
 		'after_title'   => '</h3><div class="w3ls_mobiles_grid_left_grid_sub">',
 	) );
 	register_sidebar( array(
+		'name'          => esc_html__( 'Сайдбар магазина', 'burrito' ),
+		'id'            => 'sidebar-shop',
+		'description'   => esc_html__( 'Add widgets here.', 'burrito' ),
+		'before_widget' => '<section id="%1$s" class="widget w3ls_mobiles_grid_left_grid %2$s">',
+		'after_widget'  => '</div></section>',
+		'before_title'  => '<h3 class="widget-title">',
+		'after_title'   => '</h3><div class="w3ls_mobiles_grid_left_grid_sub">',
+	) );
+	register_sidebar( array(
 		'name'          => 'Подвал левый',
 		'id'            => 'footer-1',
 		'before_widget' => '<section id="%1$s" class="widget info %2$s">',

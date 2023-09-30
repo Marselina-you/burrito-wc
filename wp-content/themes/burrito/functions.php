@@ -53,6 +53,7 @@ if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/woocommerce/includes/wc-functions.php';
 	require get_template_directory() . '/woocommerce/includes/wc-functions-remove.php';
 	require get_template_directory() . '/woocommerce/includes/wc-functions-cart.php';
+	require get_template_directory() . '/woocommerce/includes/wc-functions-single.php';
 	
 }
 add_filter( 'upload_mimes', 'svg_upload_allow' );
@@ -96,4 +97,8 @@ function fix_svg_mime_type( $data, $file, $filename, $mimes, $real_mime = '' ){
 
 	return $data;
 }
+function disable_rest($access) {
+	return new WP_Error('access denied', 'REST API Disabled', ['status' => 403]);
+}
+add_filter('rest_authentication_errors', disable_rest);
 

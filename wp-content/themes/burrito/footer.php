@@ -27,7 +27,7 @@ do_action( 'bur_footer_parts' ); ?>
 
 
 </div><!-- #page -->
-
+<div class="clearfix"></div>
 <?php wp_footer(); ?>
 
 </body></html>
