@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 add_action( 'woocommerce_before_main_content', 'burrito_archive_wrapper_start', 40 );
 function burrito_archive_wrapper_start(){
 ?>
-	<div class="menu">
+	
 		
 			
 <?php
@@ -16,8 +16,7 @@ function burrito_archive_wrapper_end(){
 ?>
 				
 			
-		</div>
-	</div>
+	
 	<?php
 }
 
@@ -39,7 +38,7 @@ add_action( 'woocommerce_before_shop_loop', 'burrito_out_subcategories', 40 );
 function burrito_out_subcategories() {
 	$cat_out = woocommerce_output_product_categories( array(
 		'before'    => '<ul class="header-menu-nav__list list-reset">',
-		'after'     => '</div></ul>',
+		'after'     => '</ul>',
 		'parent_id' => is_product_category() ? get_queried_object_id() : 0,
 	) );
 	return $cat_out;
@@ -86,7 +85,7 @@ add_action( 'woocommerce_before_shop_loop_item_title', 'burrito_loop_product_div
 function burrito_loop_product_div_image_open(){
 	?>
 	
-	<div class="menu-content-image block-product-img">
+	<div class="menu-content-image">
 	<?php
 }
 add_action( 'woocommerce_before_shop_loop_item_title', 'burrito_loop_product_div_image_close', 30);
@@ -100,7 +99,7 @@ remove_action( 'woocommerce_shop_loop_item_title', 'woocommerce_template_loop_pr
 add_action( 'woocommerce_shop_loop_item_title', 'burrito_template_loop_product_title' , 10);
 function burrito_template_loop_product_title(){
 	echo '
-	<div class="menu-content-text block-product-txt">
+	<div class="menu-content-text">
 	<h5 class="menu-content-text__title"><a href="'. get_permalink() .'">' . get_the_title() . '</a>&nbsp;';
 }
 

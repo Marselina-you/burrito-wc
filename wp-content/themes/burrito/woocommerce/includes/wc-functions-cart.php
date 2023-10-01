@@ -27,7 +27,10 @@ if ( ! function_exists( 'burrito_woocommerce_cart_link_fragment' ) ) {
 		
 			<span class="cart-text" aria-hidden="true">cart</span>
 			
-			<span class="count"><?php echo wp_kses_data( WC()->cart->get_cart_contents_count() ) ;?></span>
+			<span class="count"><?php if(WC()->cart->get_cart_contents_count() > 0) {
+echo wp_kses_data( WC()->cart->get_cart_contents_count() ) ;
+			}
+			?></span>
 		</a>
 		<?php
 	}

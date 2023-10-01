@@ -26,8 +26,8 @@ add_action( 'wp_enqueue_scripts', 'burrito_woocommerce_scripts' );
 add_filter('woocommerce_short_description', 'burrito_short_description', 10);
 function burrito_short_description($content){
 	?>
-		<div class="description">
+		
 			<?php echo $content;?>
-		</div>
+		
 	<?php
 	}
