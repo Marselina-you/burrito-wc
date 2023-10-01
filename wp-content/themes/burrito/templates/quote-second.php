@@ -1,0 +1,10 @@
+<section class="quote quote--second" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/quote-second.jpg);">
+  <div class="container quote__container">
+    <div class="quote__content quote__content--second wow animate__fadeInLeft" data-wow-offset="200">
+      <quote class="quote__text">"Burrito ignites a hot flame in you, it collapses
+        on you like lava, with its most powerful music,
+        a sea of tequila and devilish food"</quote>
+      <div class="quote__autor">Penelope Cruz, the visitor</div>
+    </div>
+  </div>
+</section>

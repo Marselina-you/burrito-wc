@@ -1,0 +1,78 @@
+2023-09-29T05:55:43+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-29T05:55:44+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-29T05:58:01+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-29T05:58:02+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-29T06:29:43+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-29T06:29:45+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(59): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+

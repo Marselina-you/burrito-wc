@@ -1184,10 +1184,10 @@ if ( ! function_exists( 'woocommerce_template_loop_category_title' ) ) {
 			<?php
 			echo esc_html( $category->name );
 
-			if ( $category->count > 0 ) {
+			//if ( $category->count > 0 ) {
 				// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
-				echo apply_filters( 'woocommerce_subcategory_count_html', ' <mark class="count">(' . esc_html( $category->count ) . ')</mark>', $category );
-			}
+				//echo apply_filters( 'woocommerce_subcategory_count_html', ' <mark class="count">(' . esc_html( $category->count ) . ')</mark>', $category );
+			//}
 			?>
 		</h2>
 		<?php
@@ -1756,6 +1756,26 @@ if ( ! function_exists( 'woocommerce_variable_add_to_cart' ) ) {
 				'selected_attributes'  => $product->get_default_attributes(),
 			)
 		);
+	}
+}
+if ( ! function_exists( 'woocommerce_template_loop_product_weight' ) ) {
+
+	/**
+	 * Get the product thumbnail for the loop.
+	 */
+	function woocommerce_template_loop_product_weight() {
+		// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+		wc_get_template( 'loop/weight.php' );
+	}
+}
+if ( ! function_exists( 'woocommerce_template_loop_product_calories' ) ) {
+
+	/**
+	 * Get the product thumbnail for the loop.
+	 */
+	function woocommerce_template_loop_product_calories() {
+		// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+		wc_get_template( 'loop/calories.php' );
 	}
 }
 if ( ! function_exists( 'woocommerce_external_add_to_cart' ) ) {
@@ -3625,6 +3645,7 @@ function wc_get_stock_html( $product ) {
  * @param  int   $count  Total number of ratings.
  * @return string
  */
+
 function wc_get_rating_html( $rating, $count = 0 ) {
 	$html = '';
 

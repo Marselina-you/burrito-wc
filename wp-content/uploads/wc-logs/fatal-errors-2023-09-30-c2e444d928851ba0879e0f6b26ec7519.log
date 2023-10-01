@@ -1,0 +1,14 @@
+2023-09-30T03:52:55+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T03:52:56+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T03:54:22+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T03:54:22+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T03:57:04+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T03:57:05+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-single.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 56
+
+2023-09-30T04:07:40+00:00 CRITICAL Cannot redeclare burrito_add_breadcrumbs() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions.php:9) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-single.php на строке 7
+

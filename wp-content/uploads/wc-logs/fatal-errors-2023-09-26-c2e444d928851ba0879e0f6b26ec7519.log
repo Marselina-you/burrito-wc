@@ -1,0 +1,747 @@
+2023-09-26T04:36:56+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:38:57+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:40:58+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:42:59+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:45:00+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:47:01+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:49:02+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:51:03+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:53:04+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:55:05+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:57:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T04:59:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T05:01:08+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T05:03:09+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T05:05:10+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T05:07:11+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:09:12+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:11:13+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:13:14+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:15:15+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:17:16+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:19:17+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:21:18+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:23:19+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:25:20+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 155
+
+2023-09-26T05:26:25+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 74
+
+2023-09-26T05:26:25+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 74
+
+2023-09-26T05:27:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 74
+
+2023-09-26T05:29:22+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 75
+
+2023-09-26T05:31:23+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/theme-settings.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 3
+
+2023-09-26T05:33:24+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/theme-settings.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 3
+
+2023-09-26T05:35:25+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 58
+
+2023-09-26T05:37:26+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/inc/custom-header.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 45
+
+2023-09-26T05:39:27+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:41:28+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:43:29+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:45:30+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:47:31+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:49:32+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:51:33+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:53:34+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:55:35+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:57:36+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 4
+
+2023-09-26T05:59:37+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:00:18+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:00:18+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:01:09+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:01:09+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:01:22+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:01:23+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:01:38+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 16
+
+2023-09-26T06:02:31+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:02:32+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:03:12+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:03:12+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:03:39+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:04:17+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:04:18+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:04:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:04:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/include/widget-areas.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 17
+
+2023-09-26T06:05:04+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:05:05+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:05:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:05:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:05:40+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:07:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:07:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:07:41+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:08:02+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:08:03+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:09:42+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:10:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:10:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:11:32+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:11:32+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:11:43+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:11:48+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:11:49+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:13:44+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:15:45+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:17:46+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:19:47+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:21:48+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:22:59+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:23:00+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:23:25+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:23:26+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:23:49+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:25:50+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:27:45+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:27:46+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:27:51+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:29:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:29:07+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:29:52+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:31:53+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:35:53+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:35:54+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:35:55+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:36:18+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:36:19+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:36:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T06:36:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/wc-functions.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 49
+
+2023-09-26T08:09:25+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:141
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\plugins\woocommerce\templates\archive-product.php(20): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 141
+
+2023-09-26T08:10:49+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\plugins\woocommerce\templates\archive-product.php(20): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:07+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:07+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:07+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:14+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:14+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:14+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:11:14+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:12:43+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:12:44+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:12:44+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:12:46+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:118
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 118
+
+2023-09-26T08:24:02+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:142
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 142
+
+2023-09-26T08:24:02+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:142
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 142
+
+2023-09-26T08:24:02+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:142
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 142
+
+2023-09-26T08:24:08+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:08+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:08+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:33+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:33+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:33+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:38+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:38+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:38+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:41+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:24:42+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:143
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 143
+
+2023-09-26T08:27:30+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:141
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 141
+
+2023-09-26T08:27:31+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:141
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 141
+
+2023-09-26T08:28:27+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:141
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 141
+
+2023-09-26T08:28:28+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:141
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(10): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 141
+
+2023-09-26T09:58:49+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:142
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 142
+
+2023-09-26T12:54:02+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T12:54:02+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T12:54:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T12:54:06+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T12:56:03+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T12:56:03+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/woocommerce/includes/wc-functions-cart.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 51
+
+2023-09-26T13:00:03+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:00:04+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:00:19+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:00:19+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:03:46+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:03:46+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:03:50+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:03:50+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:04:04+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:04:05+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:06:10+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 7
+
+2023-09-26T13:06:11+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 7
+
+2023-09-26T13:06:17+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:06:18+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:10:29+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:10:30+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 24
+
+2023-09-26T13:40:54+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T13:40:54+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T13:41:12+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T13:41:12+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T13:41:20+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T13:41:21+00:00 CRITICAL require(): Failed opening required 'D:\OSPanel\domains\burrito/wp-content/themes/burrito/includes/navigations.php' (include_path='.') в D:\OSPanel\domains\burrito\wp-content\themes\burrito\functions.php на строке 37
+
+2023-09-26T15:50:17+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-26T15:50:18+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-26T15:50:18+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-26T15:50:19+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+
+2023-09-26T15:50:20+00:00 CRITICAL Uncaught Error: Call to undefined function estore_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(33): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_card()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\mini-card.php на строке 7
+

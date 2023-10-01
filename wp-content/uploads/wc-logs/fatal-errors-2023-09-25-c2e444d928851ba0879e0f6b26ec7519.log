@@ -1,0 +1,32 @@
+2023-09-25T15:37:23+00:00 CRITICAL Uncaught Error: Class 'True_Walker_Nav_Menu' not found in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:30
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\home.php(8): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 30
+
+2023-09-25T15:37:24+00:00 CRITICAL Uncaught Error: Class 'True_Walker_Nav_Menu' not found in D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php:30
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\404.php(2): get_header()
+#4 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php на строке 30
+
+2023-09-25T15:37:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\home.php:17
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template-loader.php(106): include()
+#1 D:\OSPanel\domains\burrito\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\burrito\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\burrito\wp-content\themes\burrito\home.php на строке 17
+

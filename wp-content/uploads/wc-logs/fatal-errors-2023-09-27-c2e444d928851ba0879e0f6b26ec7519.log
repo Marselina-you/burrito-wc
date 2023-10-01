@@ -1,0 +1,232 @@
+2023-09-27T16:18:33+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:18:34+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:19:19+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:19:19+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:19:43+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:19:44+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:21:38+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 9
+
+2023-09-27T16:21:38+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 9
+
+2023-09-27T16:22:13+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 9
+
+2023-09-27T16:22:14+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 9
+
+2023-09-27T16:34:43+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:34:44+00:00 CRITICAL Cannot redeclare burrito_woocommerce_cart_link() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\woocommerce.php:220) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-cart.php на строке 26
+
+2023-09-27T16:51:34+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:35+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:35+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:35+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:44+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:45+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:45+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:51:45+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:16+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:17+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:17+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:17+00:00 CRITICAL Uncaught Error: Call to undefined function burrito_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): lo в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:51+00:00 CRITICAL Uncaught Error: Call to undefined function burrit_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): loa в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:52+00:00 CRITICAL Uncaught Error: Call to undefined function burrit_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): loa в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:52+00:00 CRITICAL Uncaught Error: Call to undefined function burrit_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): loa в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+
+2023-09-27T16:54:52+00:00 CRITICAL Uncaught Error: Call to undefined function burrit_woocommerce_cart_link() in D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php:7
+Stack trace:
+#0 D:\OSPanel\domains\burrito\wp-includes\template.php(787): require()
+#1 D:\OSPanel\domains\burrito\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\burrito\wp-includes\general-template.php(206): locate_template()
+#3 D:\OSPanel\domains\burrito\wp-content\themes\burrito\includes\custom-header.php(43): get_template_part()
+#4 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(310): burrito_header_navi()
+#5 D:\OSPanel\domains\burrito\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 D:\OSPanel\domains\burrito\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\OSPanel\domains\burrito\wp-content\themes\burrito\header.php(67): do_action()
+#8 D:\OSPanel\domains\burrito\wp-includes\template.php(785): require_once('D:\\OSPanel\\doma...')
+#9 D:\OSPanel\domains\burrito\wp-includes\template.php(720): loa в D:\OSPanel\domains\burrito\wp-content\themes\burrito\template-parts\header\navi.php на строке 7
+

@@ -22,17 +22,7 @@
 	
 </head>
 
-<style>
-	 .products {
-	display: flex;
-	flex-direction: column;
-  }
-  .product {
-	display: flex;
-	flex-direction: column;
-  }
 
-	</style>
 	
 <body <?php body_class(); ?> id="page">
 <div id="page" class="site">

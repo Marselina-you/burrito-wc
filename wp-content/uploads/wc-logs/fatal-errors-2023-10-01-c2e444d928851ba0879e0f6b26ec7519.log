@@ -1,0 +1,4 @@
+2023-10-01T08:04:06+00:00 CRITICAL Cannot redeclare burrito_loop_product_div_price_close() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-archive.php:109) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-archive.php на строке 119
+
+2023-10-01T08:04:06+00:00 CRITICAL Cannot redeclare burrito_loop_product_div_price_close() (previously declared in D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-archive.php:109) в D:\OSPanel\domains\burrito\wp-content\themes\burrito\woocommerce\includes\wc-functions-archive.php на строке 119
+
