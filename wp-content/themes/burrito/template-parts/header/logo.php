@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
 wc_print_notices(); ?>
-<div class="header-logo">
+<div class="header-logo wow animate__fadeInLeft">
 
       <img class="header-logo__decor" src="<?php echo get_template_directory_uri(); ?>/assets/img/logo-t.svg" alt="burrito">
      

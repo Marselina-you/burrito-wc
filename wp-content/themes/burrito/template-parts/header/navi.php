@@ -5,7 +5,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 wc_print_notices(); ?>
 <div class="nav-wrap">
 		
-		<nav id="site-navigation" class="nav header__nav">
+		<nav id="site-navigation" class="nav header__nav wow animate__fadeInDown">
 		<?php burrito_primary_menu(); ?>
 			
 		

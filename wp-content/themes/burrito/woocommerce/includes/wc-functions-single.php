@@ -22,7 +22,7 @@ function burrito_wrapper_product_end() {
 add_action( 'woocommerce_before_single_product_summary', 'burrito_wrapper_product_image_start', 5 );
 function burrito_wrapper_product_image_start() {
 	?>
-	<div class="block-product">
+	<div class="menu__content">
 	<div class="menu-content-image">
 	<?php
 }

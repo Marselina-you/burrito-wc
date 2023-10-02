@@ -723,20 +723,20 @@
       loop: true,
       navigation: {
         nextEl: ".hero__nav--left",
-        prevEl: ".hero__nav--right"
-        //clickable: true,
+        prevEl: ".hero__nav--right",
+        clickable: true,
       },
   
-      //  autoplay: {
-      // delay: 2500,
-      // disableOnInteraction: false,
-      //},
-      //   speed: 3000,
+        autoplay: {
+       delay: 2500,
+       disableOnInteraction: false,
+      },
+         speed: 3000,
   
-      // effect: "fade",
-      //fadeEffect: {
-      //   crossFade: true
-      // },
+       effect: "fade",
+      fadeEffect: {
+         crossFade: true
+       },
   
       mousewheel: true,
       keyboard: true
@@ -780,8 +780,10 @@
     let y = window.scrollY;
     isVisibleToTop(y);
   });
+ 
   
   /***/ }),
+  
   
   /***/ "./src/js/functions/mobile-check.js":
   /*!******************************************!*\
